@@ -13,4 +13,13 @@
 	
 }
 
-.bla bla bla
+.copyright-div {
+	background-color: black;
+	color: #ecf0f1;
+	text-align: center;
+}
+
+.copyright-text {
+	color: #ecf0f1;
+	font-size: 10px;
+}
